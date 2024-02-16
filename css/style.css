@@ -15,6 +15,8 @@ body{
     background-size: cover;
     background-position: center;
     text-align: center;
+    border-radius: 10px;
+    
   }
   .content{
     position: absolute;
@@ -28,7 +30,38 @@ body{
     color: #FFFFFF;
   }
   .text-2{
-    margin-top: 20px;
+    /* margin-top: 50px; */
     font-size: 50px;
     color: #FFFFFF;
   }
+
+  /* discount section  start*/
+  
+  .text-discount{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+  }
+  .bg-primary-1{
+    font-size: 50px;
+    font-weight: 700;
+    color: #FF0000;
+     
+  }
+  .bg-primary-2{
+    color: #FF0000;
+  }
+  .bg-primary-3{
+    margin-top:-10px;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .photo-happy img{
+    margin-top:-30px;
+    padding: 10px 20px;
+    margin-left: 80px;
+    width: 60%;
+    height: 200px;
+    
+  }
+    /* discount section  end*/
