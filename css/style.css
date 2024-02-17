@@ -244,3 +244,24 @@ body{
   }
 
   /* Holidays sale section end */
+
+  /* awsome portfolio section start */
+  .text-10{
+    color: #FF0000;
+    font-weight: 700;
+  }
+  .text-11{
+    font-size: 35px;
+  }
+  .image-container{
+    width: 90%;
+    display: grid;
+    margin: 6px;
+    grid-template-columns: 1fr 1fr 1fr
+  }
+   
+  .image-1 img{
+    width: 295px;
+    margin: 10px;
+  }
+  /* awsome portfolio section end */
